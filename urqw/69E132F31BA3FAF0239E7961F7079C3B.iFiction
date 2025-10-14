@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>69E132F31BA3FAF0239E7961F7079C3B</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Королевство Кеперлейс</title>
+			<author>Глеб Гадяцкий (Logger)</author>
+			<language>ru</language>
+			<firstpublished>2010-01-22</firstpublished>
+			<genre>Фэнтези</genre>
+			<group>URQ</group>
+			<description>Тёмный чародей Мнгах угрожает королевству Кеперлейс. Его не смогли остановить самые сильные маги.<br/>Но надежда ещё есть. Нужен отважный герой, который поможет жителям многострадального королевства обрести покой и навсегда избавиться от Мнгаха.<br/>Ты готов выступить в роли такого героя? Тогда - в путь! На твоём пути Гремящие скалы и логово дракона, орды гоблинов и пираты.<br/>Но если ты умён и храбр, если не боишься оборотней и извержения вулкана, то спеши! Тучи над Кеперлейсом всё сгущаются...<br/>Особые благодарности:<br/>Форум "  Книги-игры и текстовые квесты"<br/>http://forum.myquest.ru/<br/>За тестирование и поддержку<br/>Это портированная на URQ книга-игра 2000 года.</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#keperleys</url>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-10-14</originated>
+		</colophon>
+	</story>
+</ifindex>
